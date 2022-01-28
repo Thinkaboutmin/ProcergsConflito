@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Opssie another filea!
+echo ssie another filea!
