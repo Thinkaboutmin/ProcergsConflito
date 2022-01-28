@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo ssie another filea!
+echo ssie aher filea!
